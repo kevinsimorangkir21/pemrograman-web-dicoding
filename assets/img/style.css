@@ -72,16 +72,18 @@ main aside section img:hover {
 footer {
     padding: 10px;
     color: white;
-    background-color: #027abb;
+    background-color: #000000;
     text-align: center;
 }
 
 h2 {
-    color: #00a6ff;
+    color: #006e0f;
 }
 
 .rounded {
     border-radius: 50%;
+    width: 170px;
+    height: 180px;
 }
 
 .card {
