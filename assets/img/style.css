@@ -35,3 +35,12 @@ header nav a {
     text-decoration: none;
     color: white;
 }
+
+header top {
+    
+    font-size: 20px;
+    padding: 60px;
+    text-align: center;
+    color: white;
+    background-color: #00a6ff;
+}
