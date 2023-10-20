@@ -16,6 +16,15 @@ header {
     text-align: center;
 }
 
+header .top {
+
+    font-size: 20px;
+    padding: 60px;
+    text-align: center;
+    color: white;
+    background-color: #183a9e;
+}
+
 header nav {
     top: 0;
     padding: 5px;
@@ -37,21 +46,12 @@ header nav a {
     font-weight: bold;
 }
 
-header top {
-    
-    font-size: 20px;
-    padding: 60px;
-    text-align: center;
-    color: white;
-    background-color: #00a6ff;
-}
-
 main {
     padding: 20px;
     overflow: auto;
 }
 
-main #content {
+main #website-content {
     float: left;
     width: 75%;
 }
@@ -72,13 +72,14 @@ main aside section img:hover {
 
 footer {
     padding: 10px;
-    color: white;
-    background-color: #000000;
+    color: rgb(0, 0, 0);
+    background-color: #f7f7f7;
     text-align: center;
 }
 
 h2 {
-    color: #006e0f;
+    color: #183a9e;
+    font-weight: bold;
 }
 
 .rounded {
