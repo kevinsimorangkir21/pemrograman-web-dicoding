@@ -49,6 +49,7 @@ header nav a {
 main {
     padding: 20px;
     overflow: auto;
+    flex-direction: column;
 }
 
 main #website-content {
